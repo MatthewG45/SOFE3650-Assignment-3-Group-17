@@ -1,7 +1,11 @@
 # SOFE3650 Assignment 3 Group 17
- 
+Matthew Gardiner (100768198)
+Manreet Kaur(100766207)  
+Haiqa Tikka(100739498)  
+Ammar Salmawy (100756573)  
+
 ## Table of Contents:
-_ _ Deliverable  1
+_ _Deliverable  1
 _ _Deliverable  2
 _ _Deliverable  3
 _ _Deliverable  4
